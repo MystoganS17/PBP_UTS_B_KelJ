@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1869704688",
+    "firebase_url": "https://rentalmotor-49410.firebaseio.com",
+    "project_id": "rentalmotor-49410",
+    "storage_bucket": "rentalmotor-49410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1869704688:android:96415bd020077e29918135",
+        "android_client_info": {
+          "package_name": "com.tubes.rentalmotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1869704688-u3b9q448h3palqmj1hn5bcusgf20qqmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tubes.rentalmotor",
+            "certificate_hash": "f6637ef83f275108ecd7ce2f168c02809ff3cf9f"
+          }
+        },
+        {
+          "client_id": "1869704688-dhqbkaee1njidlpe004ok1pc6s2nntro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9RwbaWaYc60ovQRV5ToMq3ji8OmzWfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1869704688-dhqbkaee1njidlpe004ok1pc6s2nntro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

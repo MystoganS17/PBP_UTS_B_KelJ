@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rental Motor</string>
+    <string name="nama_penyewa">Nama Penyewa <font color='red'>(*)</font></string>
+    <string name="alamat">Alamat <font color='red'>(*)</font></string>
+    <string name="no_telp_hp">No. Telp/HP <font color='red'>(*)</font></string>
+    <string name="merk_motor">Merk Motor <font color='red'>(*)</font></string>
+    <string name="lama_sewa">Lama Sewa <font color='red'>(*)</font></string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXlzdG9nYW5zMTciLCJhIjoiY2tmbnQ4cnZpMXQ2MTJxbWozNzMwMnk4aiJ9.Ol5ex5wZeN3-3kIEZqmC_Q</string>
+</resources>
